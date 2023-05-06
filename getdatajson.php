@@ -1,5 +1,7 @@
 <?php
 
+// mengambil dan menampilkan data API (json)
+
 /**
  * get contents from API's URL
  */
