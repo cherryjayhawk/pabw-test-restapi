@@ -1,5 +1,8 @@
 <?php
 
+// fetch dari database biasa pakai mysqli
+// tanpa json
+
 require_once 'connection.php';
 
 /**
