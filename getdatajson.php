@@ -5,7 +5,7 @@
 /**
  * get contents from API's URL
  */
-$source = file_get_contents('http://localhost/test-rest-php/datajson.php');
+$source = file_get_contents('http://localhost/pabw-test-restapi-main/datajson.php');
 
 /**
  * decode json to php object
