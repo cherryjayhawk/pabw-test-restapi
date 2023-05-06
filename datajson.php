@@ -1,5 +1,7 @@
 <?php
 
+// buat json dari data di database penjualan
+
 require_once 'connection.php';
 
 /**
